@@ -14,7 +14,7 @@ REQUESTS_REVIEW_CHANNEL_ID = 0
 APPROVED_ROLE_ID = 0
 LOG_CHANNEL_ID = 0
 
-TOKEN = os.getenv("803aac93afdc774ecdd83e45b689bdcfd7f68a80fb26f1679e073fa81d1fb6dc", "")
+TOKEN = os.getenv("1111", "")
 
 intents = discord.Intents.default()
 intents.members = True
